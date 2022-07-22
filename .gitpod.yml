@@ -5,6 +5,7 @@ tasks:
       pip install --upgrade pip wheel setuptools
       pip install Django
       python manage.py migrate
+      
   - command: |
       source venv/bin/activate
       python manage.py runserver
