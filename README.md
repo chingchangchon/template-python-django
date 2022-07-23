@@ -20,4 +20,4 @@ To get started with Python Django on Gitpod, add a [`.gitpod.yml`](./.gitpod.yml
 
 
 ## ref
-[생활코딩](https://opentutorials.org/course/4886/31116)
+[생활코딩](https://opentutorials.org/course/4886/31118)
